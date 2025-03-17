@@ -43,6 +43,6 @@ If you're already calling other custom JSONs to spawn items or buildings, separa
 
 "objectSpawnersArr": ["custom/AnivaLumber.json", "custom/anotherfile.json", "custom/differentfile.json"] 
 
-restart your server and the new store will spawn with all items ready for use.
+restart your server and the new lumber file will spawn with all items ready for use.
 
 Thanks, and happy gaming! Created by @WiffleWhomper For support or inquiries: c.lindberg823@gmail.com
