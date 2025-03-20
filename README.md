@@ -1,7 +1,11 @@
 # Aniva-Lumber
 Custom Structure JSON Files For Console and PC Instructions ONLY WORKS ON DAYZ 1.26 AND LATER!!! NOT EARLIER VERSIONS!!!
 
-A strategic stronghold that seen the re-utilization of Aniva's industrial compoud during troubling times in the hopes of creating a highly defended position. As the inhabitants obtained material and began trimming it down, Hell broke loose and their efforts were in vein. Perhaps you can find the supplies and resources they've gathered. Use them to build your own home, or live off the material and lay low as you survive in secret. the choice is yours.
+"  - A strategic Last attempt to hold-off the inevitable. As the zombie infestation began to take hold of Sakhal, Aniva's industrial district made a last attempt for salvation by ordering in truck loads of materials to be processed to make a barrier between them and the outside world. 
+It seems the efforts were in vein. 
+Now you stumble across the remaining supplies. 
+As their story ended, yours begins.
+Welcome to Aniva. "
 
 Limited testing was conducted on Xbox Series S using DayZ Version 1.26 as of March 2025.
 
