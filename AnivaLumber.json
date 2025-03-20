@@ -13,7 +13,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Sedan_02_Wheel",
@@ -28,7 +29,8 @@
                 90.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Winchester70",
@@ -43,7 +45,8 @@
                 96.62297058105469
             ],
             "scale": 1.0000004768371583,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Garbage_Bin",
@@ -58,7 +61,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Garbage_Pile8",
@@ -73,7 +77,8 @@
                 -0.0
             ],
             "scale": 0.9999997615814209,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Truck_01_Wheel",
@@ -88,7 +93,8 @@
                 90.0
             ],
             "scale": 0.9999996423721314,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Misc_WoodTable_Indoor",
@@ -103,7 +109,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "M65Jacket_Black",
@@ -118,7 +125,8 @@
                 -89.20230102539063
             ],
             "scale": 1.000000238418579,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_carpet_big_dirty",
@@ -133,7 +141,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Truck_01_Wheel",
@@ -148,7 +157,8 @@
                 90.0
             ],
             "scale": 0.9999996423721314,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_carpet_2_DZ",
@@ -163,7 +173,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Misc_WoodTable_Indoor",
@@ -178,7 +189,8 @@
                 -0.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "PlateCarrierVest_Black",
@@ -193,7 +205,8 @@
                 -87.89898681640625
             ],
             "scale": 1.0000004768371583,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Truck_01_Wheel",
@@ -208,7 +221,8 @@
                 90.0
             ],
             "scale": 0.9999996423721314,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Misc_SupplyBox2_DE",
@@ -223,7 +237,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_metalcrate_02",
@@ -238,7 +253,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Misc_WoodTable_Indoor",
@@ -253,7 +269,8 @@
                 -0.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Truck_01_Wheel",
@@ -268,7 +285,8 @@
                 90.0
             ],
             "scale": 0.9999996423721314,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "PlateCarrierHolster_Black",
@@ -283,7 +301,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Firewood",
@@ -298,7 +317,8 @@
                 -0.0
             ],
             "scale": 0.9999999403953552,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Firewood",
@@ -313,7 +333,8 @@
                 -0.0
             ],
             "scale": 0.9999999403953552,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Truck_01_Wheel",
@@ -328,7 +349,8 @@
                 90.0
             ],
             "scale": 0.9999996423721314,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Firewood",
@@ -343,7 +365,8 @@
                 -0.0
             ],
             "scale": 0.9999999403953552,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "PlateCarrierPouches_Black",
@@ -358,7 +381,8 @@
                 -0.00003597217801143415
             ],
             "scale": 0.9999999403953552,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Hanged_civil",
@@ -373,7 +397,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Truck_01_Wheel",
@@ -388,7 +413,8 @@
                 90.0
             ],
             "scale": 0.9999996423721314,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Firewood",
@@ -403,7 +429,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Firewood",
@@ -418,7 +445,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Cemetery_Tombstone6",
@@ -433,7 +461,8 @@
                 -0.0
             ],
             "scale": 1.0000003576278687,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Jeans_Black",
@@ -448,7 +477,8 @@
                 179.9999237060547
             ],
             "scale": 0.9999997615814209,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Truck_01_Wheel",
@@ -463,7 +493,8 @@
                 90.0
             ],
             "scale": 0.9999996423721314,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Misc_WoodTable_Indoor",
@@ -478,7 +509,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Firewood",
@@ -493,7 +525,8 @@
                 -0.0
             ],
             "scale": 0.9999999403953552,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Firewood",
@@ -508,7 +541,8 @@
                 -0.0
             ],
             "scale": 0.9999999403953552,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Truck_01_Wheel",
@@ -523,7 +557,8 @@
                 90.0
             ],
             "scale": 0.9999996423721314,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "MilitaryBoots_Black",
@@ -538,7 +573,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Firewood",
@@ -553,7 +589,8 @@
                 -0.0
             ],
             "scale": 0.9999999403953552,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Misc_WoodTable_Indoor",
@@ -568,7 +605,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Truck_01_Wheel",
@@ -583,7 +621,8 @@
                 90.0
             ],
             "scale": 0.9999996423721314,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Firewood",
@@ -598,7 +637,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "PaddedGloves_Brown",
@@ -613,7 +653,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Firewood",
@@ -628,7 +669,8 @@
                 -0.0
             ],
             "scale": 0.9999999403953552,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Truck_01_Wheel",
@@ -643,7 +685,8 @@
                 90.0
             ],
             "scale": 0.9999996423721314,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Firewood",
@@ -658,7 +701,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Firewood",
@@ -673,7 +717,8 @@
                 -0.0
             ],
             "scale": 0.9999999403953552,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AmmoBox_308WinTracer_20Rnd",
@@ -688,7 +733,8 @@
                 -0.0
             ],
             "scale": 0.9999998211860657,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "CanisterGasoline",
@@ -703,7 +749,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "LongWoodenStick",
@@ -718,7 +765,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "SharpWoodenStick",
@@ -733,7 +781,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Slum_Roof1",
@@ -748,7 +797,8 @@
                 -0.0
             ],
             "scale": 0.9999998211860657,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "CanisterGasoline",
@@ -763,7 +813,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AmmoBox_308WinTracer_20Rnd",
@@ -778,7 +829,8 @@
                 -0.0
             ],
             "scale": 0.9999998211860657,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Bark_Oak",
@@ -793,7 +845,8 @@
                 -0.0
             ],
             "scale": 0.9999999403953552,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Bark_Oak",
@@ -808,7 +861,8 @@
                 -0.0
             ],
             "scale": 0.9999999403953552,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "SodaCan_Cola",
@@ -823,7 +877,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "LongWoodenStick",
@@ -838,7 +893,8 @@
                 167.2344207763672
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AmmoBox_308WinTracer_20Rnd",
@@ -853,7 +909,8 @@
                 -0.0
             ],
             "scale": 0.9999998211860657,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Slum_Roof1",
@@ -868,7 +925,8 @@
                 -0.0
             ],
             "scale": 0.9999998211860657,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "SodaCan_Empty",
@@ -883,7 +941,8 @@
                 -0.00003597217801143415
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Matchbox",
@@ -898,7 +957,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_Kitchenstove_Elec",
@@ -913,7 +973,8 @@
                 -82.0
             ],
             "scale": 1.0000001192092896,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AmmoBox_308WinTracer_20Rnd",
@@ -928,7 +989,8 @@
                 -0.0
             ],
             "scale": 0.9999994039535523,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "SodaCan_Kvass",
@@ -943,7 +1005,8 @@
                 -0.00002231179860245902
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_case_d",
@@ -958,7 +1021,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_case_d",
@@ -973,7 +1037,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_case_d",
@@ -988,7 +1053,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "HuntingOptic",
@@ -1003,7 +1069,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_Kitchen_desk_A",
@@ -1018,7 +1085,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Land_Wall_BackAlley_01_l_gate_F",
@@ -1033,7 +1101,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Cemetery_Tombstone6",
@@ -1048,7 +1117,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_kitchen_unit_a_DZ",
@@ -1063,7 +1133,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Misc_WoodTable_Indoor",
@@ -1078,7 +1149,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_kitchen_unit_a_DZ",
@@ -1093,7 +1165,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Cemetery_Tombstone6",
@@ -1108,7 +1181,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_Kitchen_desk_B",
@@ -1123,7 +1197,8 @@
                 -0.0
             ],
             "scale": 0.9999991655349731,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Land_Wall_BackAlley_01_l_gate_F",
@@ -1138,7 +1213,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Apple",
@@ -1153,7 +1229,8 @@
                 -0.0
             ],
             "scale": 0.009999999776482582,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Cemetery_Tombstone6",
@@ -1168,7 +1245,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_Kitchen_desk_B",
@@ -1183,7 +1261,8 @@
                 -0.0
             ],
             "scale": 0.9999991655349731,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "SodaCan_Kvass",
@@ -1198,7 +1277,8 @@
                 0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "SodaCan_Kvass",
@@ -1213,7 +1293,8 @@
                 -0.0
             ],
             "scale": 0.9999999403953552,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Cemetery_Tombstone6",
@@ -1228,7 +1309,8 @@
                 -0.0
             ],
             "scale": 1.0000003576278687,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Apple",
@@ -1243,7 +1325,8 @@
                 -0.0
             ],
             "scale": 0.009999999776482582,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Land_Wall_BackAlley_01_l_gate_F",
@@ -1258,7 +1341,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "BookTheBrothersKaramazov",
@@ -1273,7 +1357,8 @@
                 179.99996948242188
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Cemetery_Tombstone6",
@@ -1288,7 +1373,8 @@
                 -0.0
             ],
             "scale": 1.0000003576278687,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Rice",
@@ -1303,7 +1389,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Rice",
@@ -1318,7 +1405,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Land_Wall_BackAlley_01_l_gate_F",
@@ -1333,7 +1421,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "BoxCerealCrunchin",
@@ -1348,7 +1437,8 @@
                 -0.0
             ],
             "scale": 0.9999993443489075,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Honey",
@@ -1363,7 +1453,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Cleaver",
@@ -1378,7 +1469,8 @@
                 120.0
             ],
             "scale": 1.000000238418579,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_classroom_case_b_broken",
@@ -1393,7 +1485,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Land_Wall_BackAlley_01_l_gate_F",
@@ -1408,7 +1501,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "SteakKnife",
@@ -1423,7 +1517,8 @@
                 -90.00000762939453
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_Kitchenstove_Elec",
@@ -1438,7 +1533,8 @@
                 84.99998474121094
             ],
             "scale": 0.9999999403953552,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_table_broken",
@@ -1453,7 +1549,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "NailBox",
@@ -1468,7 +1565,8 @@
                 0.15987135469913484
             ],
             "scale": 0.9999996423721314,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Land_Wall_BackAlley_01_l_gate_F",
@@ -1483,7 +1581,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Wrench",
@@ -1498,7 +1597,8 @@
                 -0.000022311800421448426
             ],
             "scale": 0.9999999403953552,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_racks_broken",
@@ -1513,7 +1613,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -1528,7 +1629,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -1543,7 +1645,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Misc_Chair_Plastic",
@@ -1558,7 +1661,8 @@
                 -0.0
             ],
             "scale": 0.9999999403953552,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Land_Wreck_Volha_Grey",
@@ -1573,7 +1677,8 @@
                 -0.0
             ],
             "scale": 0.9999997615814209,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -1588,7 +1693,8 @@
                 -0.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -1603,7 +1709,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -1618,7 +1725,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Mich2001Helmet",
@@ -1633,7 +1741,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_table_DZ",
@@ -1648,7 +1757,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -1663,7 +1773,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Misc_BoardsPack2",
@@ -1678,7 +1789,8 @@
                 -0.0
             ],
             "scale": 0.9999996423721314,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "UniversalLight",
@@ -1693,7 +1805,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Misc_BoardsPack2",
@@ -1708,7 +1821,8 @@
                 -0.0
             ],
             "scale": 0.9999996423721314,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "M67Grenade",
@@ -1723,7 +1837,8 @@
                 8.004146820894675e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "DisinfectantAlcohol",
@@ -1738,7 +1853,8 @@
                 -0.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "NVGoggles",
@@ -1753,7 +1869,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "DisinfectantAlcohol",
@@ -1768,7 +1885,8 @@
                 -0.0
             ],
             "scale": 0.9999998211860657,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "BookTheOutlet",
@@ -1783,7 +1901,8 @@
                 -0.000005008955668017734
             ],
             "scale": 0.9999997615814209,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "M67Grenade",
@@ -1798,7 +1917,8 @@
                 8.004146820894675e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "NVGoggles",
@@ -1813,7 +1933,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "BakedBeansCan",
@@ -1828,7 +1949,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "PeachesCan",
@@ -1843,7 +1965,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "SodaCan_Pipsi",
@@ -1858,7 +1981,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "UniversalLight",
@@ -1873,7 +1997,8 @@
                 -0.0
             ],
             "scale": 1.0000003576278687,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "M67Grenade",
@@ -1888,7 +2013,8 @@
                 8.004146820894675e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AmmoBox_00buck_10rnd",
@@ -1903,7 +2029,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AmmoBox_00buck_10rnd",
@@ -1918,7 +2045,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Mich2001Helmet",
@@ -1933,7 +2061,8 @@
                 -180.0
             ],
             "scale": 0.9999999403953552,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AmmoBox_00buck_10rnd",
@@ -1948,7 +2077,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "M67Grenade",
@@ -1963,7 +2093,8 @@
                 8.004146820894675e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AmmoBox_00buck_10rnd",
@@ -1978,7 +2109,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "NVGHeadstrap",
@@ -1993,7 +2125,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AmmoBox_00buck_10rnd",
@@ -2008,7 +2141,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AmmoBox_00buck_10rnd",
@@ -2023,7 +2157,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "M67Grenade",
@@ -2038,7 +2173,8 @@
                 8.004146820894675e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "NVGHeadstrap",
@@ -2053,7 +2189,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AmmoBox_00buck_10rnd",
@@ -2068,7 +2205,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AmmoBox_00buck_10rnd",
@@ -2083,7 +2221,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "VitaminBottle",
@@ -2098,7 +2237,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Battery9V",
@@ -2113,7 +2253,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "M67Grenade",
@@ -2128,7 +2269,8 @@
                 8.004146820894675e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "TetracyclineAntibiotics",
@@ -2143,7 +2285,8 @@
                 -0.000022311800421448426
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Misc_Gunrack",
@@ -2158,7 +2301,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Battery9V",
@@ -2173,7 +2317,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Mp133Shotgun",
@@ -2188,7 +2333,8 @@
                 93.54998779296875
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "ImprovisedExplosive",
@@ -2203,7 +2349,8 @@
                 9.071367799151631e-7
             ],
             "scale": 0.9999971985816956,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Magnum",
@@ -2218,7 +2365,8 @@
                 -0.000022311800421448426
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Battery9V",
@@ -2233,7 +2381,8 @@
                 0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AmmoBox_357_20Rnd",
@@ -2248,7 +2397,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AmmoBox_357_20Rnd",
@@ -2263,7 +2413,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Plastic_Explosive",
@@ -2278,7 +2429,8 @@
                 9.071367799151631e-7
             ],
             "scale": 0.9999971985816956,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Battery9V",
@@ -2293,7 +2445,8 @@
                 -0.000005008955668017734
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AmmoBox_357_20Rnd",
@@ -2308,7 +2461,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AmmoBox_357_20Rnd",
@@ -2323,7 +2477,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AmmoBox_357_20Rnd",
@@ -2338,7 +2493,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Plastic_Explosive",
@@ -2353,7 +2509,8 @@
                 0.0000017609127098694444
             ],
             "scale": 0.9999966025352478,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AmmoBox_357_20Rnd",
@@ -2368,7 +2525,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AmmoBox_357_20Rnd",
@@ -2383,7 +2541,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "ChestHolster",
@@ -2398,7 +2557,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "RemoteDetonator",
@@ -2413,7 +2573,8 @@
                 0.0000014407464732357767
             ],
             "scale": 0.9999980926513672,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Bear_Beige",
@@ -2428,7 +2589,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_radio_b",
@@ -2443,7 +2605,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "BaseRadio",
@@ -2458,7 +2621,8 @@
                 -0.0
             ],
             "scale": 0.9999999403953552,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Mag_AKM_Drum_TEST",
@@ -2473,7 +2637,8 @@
                 0.000001760912482495769
             ],
             "scale": 0.9999966621398926,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_water_pond_50x50m",
@@ -2488,7 +2653,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_water_pond_50x50m",
@@ -2503,7 +2669,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_water_pond_50x50m",
@@ -2518,7 +2685,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Mag_AKM_Drum_TEST",
@@ -2533,7 +2701,8 @@
                 0.000001760912482495769
             ],
             "scale": 0.9999966621398926,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "M4A1_Black",
@@ -2548,7 +2717,8 @@
                 92.7549819946289
             ],
             "scale": 0.9999999403953552,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Mag_STANAG_60Rnd",
@@ -2563,7 +2733,8 @@
                 179.99998474121095
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Mag_STANAG_60Rnd",
@@ -2578,7 +2749,8 @@
                 -0.000022311800421448426
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Mag_AKM_Drum_TEST",
@@ -2593,7 +2765,8 @@
                 0.000001760912482495769
             ],
             "scale": 0.9999966621398926,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Mag_STANAG_60Rnd",
@@ -2608,7 +2781,8 @@
                 -0.000022311794964480215
             ],
             "scale": 0.9999998211860657,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AmmoBox_556x45Tracer_20Rnd",
@@ -2623,7 +2797,8 @@
                 179.99998474121095
             ],
             "scale": 1.000000238418579,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AmmoBox_556x45Tracer_20Rnd",
@@ -2638,7 +2813,8 @@
                 -0.00002231179860245902
             ],
             "scale": 1.000000238418579,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AKM",
@@ -2653,7 +2829,8 @@
                 31.91619110107422
             ],
             "scale": 0.9999979138374329,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AmmoBox_556x45Tracer_20Rnd",
@@ -2668,7 +2845,8 @@
                 179.99996948242188
             ],
             "scale": 1.000000238418579,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AmmoBox_556x45Tracer_20Rnd",
@@ -2683,7 +2861,8 @@
                 -0.00003597217801143415
             ],
             "scale": 1.000000238418579,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AmmoBox_556x45Tracer_20Rnd",
@@ -2698,7 +2877,8 @@
                 179.9999542236328
             ],
             "scale": 1.000000238418579,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AK_WoodBttstck",
@@ -2713,7 +2893,8 @@
                 7.839262962341309
             ],
             "scale": 0.9999969601631165,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AmmoBox_556x45Tracer_20Rnd",
@@ -2728,7 +2909,8 @@
                 179.9999542236328
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Repeater",
@@ -2743,7 +2925,8 @@
                 90.9999771118164
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Pliers",
@@ -2758,7 +2941,8 @@
                 179.99996948242188
             ],
             "scale": 0.9999995231628418,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AK_WoodHndgrd",
@@ -2773,7 +2957,8 @@
                 -0.7812576293945313
             ],
             "scale": 0.9999973773956299,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "BarbedWire",
@@ -2788,7 +2973,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Misc_CinderBlocks",
@@ -2803,7 +2989,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "FieldShovel",
@@ -2818,7 +3005,8 @@
                 179.99998474121095
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AK_WoodBttstck_Black",
@@ -2833,7 +3021,8 @@
                 -1.0157760381698609
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "M4_T3NRDSOptic",
@@ -2848,7 +3037,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AK_WoodHndgrd_Black",
@@ -2863,7 +3053,8 @@
                 -9.874761581420899
             ],
             "scale": 0.9999975562095642,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Battery9V",
@@ -2878,7 +3069,8 @@
                 -0.000022311800421448426
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Barrel_Red",
@@ -2893,7 +3085,8 @@
                 -0.0
             ],
             "scale": 1.0000001192092896,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Barrel_Yellow",
@@ -2908,7 +3101,8 @@
                 -0.0
             ],
             "scale": 1.0000001192092896,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AKM",
@@ -2923,7 +3117,8 @@
                 -141.43014526367188
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Jig",
@@ -2938,7 +3133,8 @@
                 90.0
             ],
             "scale": 0.9999998211860657,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "BandageDressing",
@@ -2953,7 +3149,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "BandageDressing",
@@ -2968,7 +3165,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Mag_AKM_Drum_TEST",
@@ -2983,7 +3181,8 @@
                 0.000001760912482495769
             ],
             "scale": 0.9999966621398926,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "LeatherSewingKit",
@@ -2998,7 +3197,8 @@
                 -0.000005008955668017734
             ],
             "scale": 1.000000238418579,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Mil_HBarrier_6m",
@@ -3013,7 +3213,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Mil_HBarrier_6m",
@@ -3028,7 +3229,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WeaponCleaningKit",
@@ -3043,7 +3245,8 @@
                 -19.5731258392334
             ],
             "scale": 0.9999966025352478,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Land_Bunker1_Double",
@@ -3058,7 +3261,8 @@
                 -0.11222967505455017
             ],
             "scale": 0.9999671578407288,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_MilCnc_4",
@@ -3073,7 +3277,8 @@
                 -1.3507005292012764e-7
             ],
             "scale": 0.9999961853027344,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_MilCnc_4",
@@ -3088,7 +3293,8 @@
                 2.1010889383887844e-7
             ],
             "scale": 0.9999964833259583,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WeaponCleaningKit",
@@ -3103,7 +3309,8 @@
                 -170.5376739501953
             ],
             "scale": 0.9999966621398926,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Land_Wall_Gate_IndCnc4",
@@ -3118,7 +3325,8 @@
                 89.2213134765625
             ],
             "scale": 0.5199983716011047,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_MilCnc_4",
@@ -3133,7 +3341,8 @@
                 0.0000017075516325348872
             ],
             "scale": 0.9999985694885254,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_MilCnc_Corner",
@@ -3148,7 +3357,8 @@
                 0.10000022500753403
             ],
             "scale": 0.9999980926513672,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WeaponCleaningKit",
@@ -3163,7 +3373,8 @@
                 4.763641357421875
             ],
             "scale": 0.9999971389770508,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_MilCnc_Corner",
@@ -3178,7 +3389,8 @@
                 0.0000010672193866412272
             ],
             "scale": 0.9999978542327881,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_MilCnc_4",
@@ -3193,7 +3405,8 @@
                 1.900985182601289e-7
             ],
             "scale": 0.9999966621398926,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_MilCnc_4",
@@ -3208,7 +3421,8 @@
                 0.000001867635205599072
             ],
             "scale": 0.9999978542327881,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_MilCnc_Corner",
@@ -3223,7 +3437,8 @@
                 6.003110541996648e-8
             ],
             "scale": 0.9999983310699463,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_MilCnc_Corner",
@@ -3238,7 +3453,8 @@
                 6.003110541996648e-8
             ],
             "scale": 0.9999983310699463,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_MilCnc_4",
@@ -3253,7 +3469,8 @@
                 -2.417920619279812e-8
             ],
             "scale": 0.9999978542327881,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AK_Suppressor",
@@ -3268,7 +3485,8 @@
                 8.004146820894675e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Land_Lamp_City1_amp",
@@ -3283,7 +3501,8 @@
                 -5.1485024243902447e-8
             ],
             "scale": 0.9999971985816956,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "ImprovisedExplosive",
@@ -3298,7 +3517,8 @@
                 0.0000011205808050362976
             ],
             "scale": 0.999997079372406,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Monument_plane_mig21",
@@ -3313,7 +3533,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AK_Suppressor",
@@ -3328,7 +3549,8 @@
                 9.341283798217774
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Plastic_Explosive",
@@ -3343,7 +3565,8 @@
                 3.6018661830894418e-7
             ],
             "scale": 0.9999964833259583,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Blowtorch",
@@ -3358,7 +3581,8 @@
                 -180.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Plastic_Explosive",
@@ -3373,7 +3597,8 @@
                 0.684419572353363
             ],
             "scale": 0.999997615814209,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "PipeWrench",
@@ -3388,7 +3613,8 @@
                 -168.0
             ],
             "scale": 1.0000001192092896,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "LargeGasCanister",
@@ -3403,7 +3629,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Plastic_Explosive",
@@ -3418,7 +3645,8 @@
                 0.6844196915626526
             ],
             "scale": 0.9999933838844299,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "EpoxyPutty",
@@ -3433,7 +3661,8 @@
                 90.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Pliers",
@@ -3448,7 +3677,8 @@
                 0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Plastic_Explosive",
@@ -3463,7 +3693,8 @@
                 0.6844192743301392
             ],
             "scale": 0.9999977946281433,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Plastic_Explosive",
@@ -3478,7 +3709,8 @@
                 0.6844208240509033
             ],
             "scale": 0.9999968409538269,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "RemoteDetonator",
@@ -3493,7 +3725,8 @@
                 8.004146820894675e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "DownJacket_Green",
@@ -3508,7 +3741,8 @@
                 -90.0
             ],
             "scale": 0.699998140335083,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "RemoteDetonator",
@@ -3523,7 +3757,8 @@
                 0.0000012273028460185743
             ],
             "scale": 0.9999971389770508,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "RemoteDetonator",
@@ -3538,7 +3773,8 @@
                 0.0000014407464732357767
             ],
             "scale": 0.9999968409538269,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "RemoteDetonator",
@@ -3553,7 +3789,8 @@
                 0.0000014407464732357767
             ],
             "scale": 0.9999968409538269,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "M67Grenade",
@@ -3568,7 +3805,8 @@
                 8.004146820894675e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "M67Grenade",
@@ -3583,7 +3821,8 @@
                 8.004146820894675e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "M67Grenade",
@@ -3598,7 +3837,8 @@
                 8.004146820894675e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "M67Grenade",
@@ -3613,7 +3853,8 @@
                 8.004146820894675e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "M67Grenade",
@@ -3628,7 +3869,8 @@
                 8.004146820894675e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "M67Grenade",
@@ -3643,7 +3885,8 @@
                 8.004146820894675e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "M67Grenade",
@@ -3658,7 +3901,8 @@
                 8.004146820894675e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "PileOfWoodenPlanks",
@@ -3673,7 +3917,8 @@
                 -0.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "M67Grenade",
@@ -3688,7 +3933,8 @@
                 8.004146820894675e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "M67Grenade",
@@ -3703,7 +3949,8 @@
                 8.004146820894675e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "M67Grenade",
@@ -3718,7 +3965,8 @@
                 8.004146820894675e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "PileOfWoodenPlanks",
@@ -3733,7 +3981,8 @@
                 -0.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "M67Grenade",
@@ -3748,7 +3997,8 @@
                 8.004146820894675e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "M67Grenade",
@@ -3763,7 +4013,8 @@
                 8.004146820894675e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Decal_dirt_rocks1",
@@ -3778,7 +4029,8 @@
                 -0.0
             ],
             "scale": 1.0914784669876099,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Misc_BoardsPack3",
@@ -3793,7 +4045,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Slum_Roof4",
@@ -3808,7 +4061,8 @@
                 -0.026692258194088937
             ],
             "scale": 0.9999997019767761,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Misc_BoardsPack3",
@@ -3823,7 +4077,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Slum_Roof3",
@@ -3838,7 +4093,8 @@
                 -1.1672713640109578e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Slum_Roof2",
@@ -3853,7 +4109,8 @@
                 -2.1344393985600619e-7
             ],
             "scale": 0.9999966621398926,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Slum_Roof2",
@@ -3868,7 +4125,8 @@
                 -0.0000036285471196606524
             ],
             "scale": 0.999997079372406,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Misc_BoardsPack2",
@@ -3883,7 +4141,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "M79",
@@ -3898,7 +4157,8 @@
                 171.07644653320313
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Ammo_40mm_Explosive",
@@ -3913,7 +4173,8 @@
                 8.004146820894675e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Ammo_40mm_Explosive",
@@ -3928,7 +4189,8 @@
                 8.004146820894675e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Misc_Pallet",
@@ -3943,7 +4205,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Ammo_40mm_Explosive",
@@ -3958,7 +4221,8 @@
                 8.004146820894675e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Ammo_40mm_Explosive",
@@ -3973,7 +4237,8 @@
                 8.004146820894675e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Ammo_40mm_Explosive",
@@ -3988,7 +4253,8 @@
                 8.004146820894675e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -4003,7 +4269,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Ammo_40mm_Explosive",
@@ -4018,7 +4285,8 @@
                 8.004146820894675e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Ammo_40mm_Explosive",
@@ -4033,7 +4301,8 @@
                 8.004146820894675e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Ammo_40mm_Explosive",
@@ -4048,7 +4317,8 @@
                 8.004146820894675e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -4063,7 +4333,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Ammo_40mm_Explosive",
@@ -4078,7 +4349,8 @@
                 8.004146820894675e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Ammo_40mm_Explosive",
@@ -4093,7 +4365,8 @@
                 8.004146820894675e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Ammo_40mm_Explosive",
@@ -4108,7 +4381,8 @@
                 8.004146820894675e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -4123,7 +4397,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "BearTrap",
@@ -4138,7 +4413,8 @@
                 8.004146820894675e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Bear_Dark",
@@ -4153,7 +4429,8 @@
                 7.114780942174548e-8
             ],
             "scale": 2.9999942779541017,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "PlateCarrierPouches_Black",
@@ -4168,7 +4445,8 @@
                 0.0011151464423164726
             ],
             "scale": 0.9999973773956299,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -4183,7 +4461,8 @@
                 -0.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "PlateCarrierHolster_Black",
@@ -4198,7 +4477,8 @@
                 -90.0
             ],
             "scale": 0.9999979138374329,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Land_Misc_FireBarrel_Green",
@@ -4213,7 +4493,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_tools_racking_DZ",
@@ -4228,7 +4509,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -4243,7 +4525,8 @@
                 -0.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_shelfs_small",
@@ -4258,7 +4541,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_chair",
@@ -4273,7 +4557,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Misc_Chair_Plastic",
@@ -4288,7 +4573,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -4303,7 +4589,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_chair_crushed",
@@ -4318,7 +4605,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_chair_leisure_crushed",
@@ -4333,7 +4621,8 @@
                 0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Land_Wall_BackAlley_01_l_gate_F",
@@ -4348,7 +4637,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -4363,7 +4653,8 @@
                 -0.0
             ],
             "scale": 0.9999996423721314,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_IndCnc_4",
@@ -4378,7 +4669,8 @@
                 -0.0
             ],
             "scale": 0.9999998211860657,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -4393,7 +4685,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -4408,7 +4701,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -4423,7 +4717,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -4438,7 +4733,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -4453,7 +4749,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -4468,7 +4765,8 @@
                 -0.0
             ],
             "scale": 0.9999995231628418,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -4483,7 +4781,8 @@
                 -0.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -4498,7 +4797,8 @@
                 -0.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -4513,7 +4813,8 @@
                 -0.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -4528,7 +4829,8 @@
                 -0.0
             ],
             "scale": 0.9999994039535523,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -4543,7 +4845,8 @@
                 -0.0
             ],
             "scale": 0.9999994039535523,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -4558,7 +4861,8 @@
                 -0.0
             ],
             "scale": 0.9999997615814209,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -4573,7 +4877,8 @@
                 -0.0
             ],
             "scale": 0.9999999403953552,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Land_wreck_truck01_aban1_orange",
@@ -4588,7 +4893,8 @@
                 -0.0
             ],
             "scale": 0.9999999403953552,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -4603,7 +4909,8 @@
                 -0.0
             ],
             "scale": 0.9999999403953552,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Land_Wreck_Trailer_Closed",
@@ -4618,7 +4925,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -4633,7 +4941,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -4648,7 +4957,8 @@
                 -0.0
             ],
             "scale": 0.9999999403953552,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -4663,7 +4973,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -4678,7 +4989,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -4693,7 +5005,8 @@
                 -0.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -4708,7 +5021,8 @@
                 -0.0
             ],
             "scale": 0.9999992847442627,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -4723,7 +5037,8 @@
                 -0.0
             ],
             "scale": 0.9999995231628418,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -4738,7 +5053,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -4753,7 +5069,8 @@
                 -0.0
             ],
             "scale": 0.9999992847442627,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -4768,7 +5085,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -4783,7 +5101,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -4798,7 +5117,8 @@
                 -0.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -4813,7 +5133,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -4828,7 +5149,8 @@
                 -0.0
             ],
             "scale": 0.9999995231628418,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -4843,7 +5165,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -4858,7 +5181,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -4873,7 +5197,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -4888,7 +5213,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -4903,7 +5229,8 @@
                 -0.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -4918,7 +5245,8 @@
                 -0.0
             ],
             "scale": 0.9999993443489075,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -4933,7 +5261,8 @@
                 -0.0
             ],
             "scale": 0.9999995231628418,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -4948,7 +5277,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -4963,7 +5293,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -4978,7 +5309,8 @@
                 -0.0
             ],
             "scale": 0.9999993443489075,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -4993,7 +5325,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5008,7 +5341,8 @@
                 -0.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5023,7 +5357,8 @@
                 -0.0
             ],
             "scale": 0.9999995231628418,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -5038,7 +5373,8 @@
                 -0.0
             ],
             "scale": 0.9999997615814209,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5053,7 +5389,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5068,7 +5405,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5083,7 +5421,8 @@
                 -0.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -5098,7 +5437,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5113,7 +5453,8 @@
                 -0.0
             ],
             "scale": 0.9999995231628418,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5128,7 +5469,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5143,7 +5485,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -5158,7 +5501,8 @@
                 -0.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5173,7 +5517,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5188,7 +5533,8 @@
                 -0.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -5203,7 +5549,8 @@
                 -0.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5218,7 +5565,8 @@
                 -0.0
             ],
             "scale": 0.9999995231628418,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5233,7 +5581,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5248,7 +5597,8 @@
                 -0.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -5263,7 +5613,8 @@
                 -0.0
             ],
             "scale": 0.9999992847442627,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5278,7 +5629,8 @@
                 -0.0
             ],
             "scale": 0.9999995231628418,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5293,7 +5645,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -5308,7 +5661,8 @@
                 -0.0
             ],
             "scale": 0.9999992847442627,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5323,7 +5677,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -5338,7 +5693,8 @@
                 -0.0
             ],
             "scale": 0.9999996423721314,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5353,7 +5709,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5368,7 +5725,8 @@
                 -0.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5383,7 +5741,8 @@
                 -0.0
             ],
             "scale": 0.9999995231628418,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -5398,7 +5757,8 @@
                 -0.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5413,7 +5773,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -5428,7 +5789,8 @@
                 -0.0
             ],
             "scale": 1.0000001192092896,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5443,7 +5805,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5458,7 +5821,8 @@
                 -0.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -5473,7 +5837,8 @@
                 -0.0
             ],
             "scale": 1.0000001192092896,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5488,7 +5853,8 @@
                 -0.0
             ],
             "scale": 0.9999995231628418,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "BandageDressing",
@@ -5503,7 +5869,8 @@
                 -0.0000632929295534268
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -5518,7 +5885,8 @@
                 -0.0
             ],
             "scale": 0.9999994039535523,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5533,7 +5901,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5548,7 +5917,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -5563,7 +5933,8 @@
                 -0.0
             ],
             "scale": 0.9999994039535523,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5578,7 +5949,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5593,7 +5965,8 @@
                 -0.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -5608,7 +5981,8 @@
                 -0.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5623,7 +5997,8 @@
                 -0.0
             ],
             "scale": 0.9999995231628418,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -5638,7 +6013,8 @@
                 -0.0
             ],
             "scale": 1.0000001192092896,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5653,7 +6029,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5668,7 +6045,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_sawhorse_DZ",
@@ -5683,7 +6061,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5698,7 +6077,8 @@
                 -0.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_sawhorse_DZ",
@@ -5713,7 +6093,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5728,7 +6109,8 @@
                 -0.0
             ],
             "scale": 0.9999995231628418,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5743,7 +6125,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Misc_BoardsPack2",
@@ -5758,7 +6141,8 @@
                 -0.0
             ],
             "scale": 0.9999997615814209,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5773,7 +6157,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Misc_BoardsPack2",
@@ -5788,7 +6173,8 @@
                 -0.0
             ],
             "scale": 0.9999997615814209,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5803,7 +6189,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5818,7 +6205,8 @@
                 -0.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_metalcrate_02",
@@ -5833,7 +6221,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5848,7 +6237,8 @@
                 0.0
             ],
             "scale": 0.9999998211860657,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5863,7 +6253,8 @@
                 -0.0
             ],
             "scale": 0.9999997615814209,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_metalcrate_02",
@@ -5878,7 +6269,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Train_Wagon_Flat_Industrial_Barrels_DE",
@@ -5893,7 +6285,8 @@
                 -0.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_sawhorse_DZ",
@@ -5908,7 +6301,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_metalcrate_02",
@@ -5923,7 +6317,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_sawhorse_DZ",
@@ -5938,7 +6333,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Misc_Pallet",
@@ -5953,7 +6349,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5968,7 +6365,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -5983,7 +6381,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "MetalPlate",
@@ -5998,7 +6397,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -6013,7 +6413,8 @@
                 -0.0
             ],
             "scale": 0.9999999403953552,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -6028,7 +6429,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -6043,7 +6445,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "MetalPlate",
@@ -6058,7 +6461,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_locker_open_v3",
@@ -6073,7 +6477,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -6088,7 +6493,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -6103,7 +6509,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "MetalPlate",
@@ -6118,7 +6525,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -6133,7 +6541,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "SVD",
@@ -6148,7 +6557,8 @@
                 93.99998474121094
             ],
             "scale": 1.0000005960464478,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -6163,7 +6573,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "MetalPlate",
@@ -6178,7 +6589,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -6193,7 +6605,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -6208,7 +6621,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Mag_SVD_10Rnd",
@@ -6223,7 +6637,8 @@
                 -180.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "MetalPlate",
@@ -6238,7 +6653,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -6253,7 +6669,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -6268,7 +6685,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -6283,7 +6701,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "MetalPlate",
@@ -6298,7 +6717,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Mag_SVD_10Rnd",
@@ -6313,7 +6733,8 @@
                 -0.000005008955668017734
             ],
             "scale": 1.0000003576278687,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -6328,7 +6749,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -6343,7 +6765,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_tools_racking",
@@ -6358,7 +6781,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -6373,7 +6797,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Mag_SVD_10Rnd",
@@ -6388,7 +6813,8 @@
                 179.99998474121095
             ],
             "scale": 1.0000003576278687,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -6403,7 +6829,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_tools_racking",
@@ -6418,7 +6845,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -6433,7 +6861,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -6448,7 +6877,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "KazuarOptic",
@@ -6463,7 +6893,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Decon_PressureHose_01_Roll_F",
@@ -6478,7 +6909,8 @@
                 -0.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -6493,7 +6925,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -6508,7 +6941,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -6523,7 +6957,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Decon_LayFlatHose_01_Roll_F",
@@ -6538,7 +6973,8 @@
                 -0.0
             ],
             "scale": 0.9999999403953552,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Battery9V",
@@ -6553,7 +6989,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -6568,7 +7005,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -6583,7 +7021,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "NailBox",
@@ -6598,7 +7037,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenLog",
@@ -6613,7 +7053,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_locker_closed_v1",
@@ -6628,7 +7069,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "HandSaw",
@@ -6643,7 +7085,8 @@
                 19.999996185302736
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "NailBox",
@@ -6658,7 +7101,8 @@
                 -0.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -6673,7 +7117,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -6688,7 +7133,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_locker_closed_v2",
@@ -6703,7 +7149,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "NailBox",
@@ -6718,22 +7165,24 @@
                 0.15987135469913484
             ],
             "scale": 0.9999996423721314,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Land_Container_1Bo_DE",
             "pos": [
                 13002.8203125,
-                4.502127647399902,
+                4.498767852783203,
                 7651.958984375
             ],
             "ypr": [
-                89.89464569091797,
+                89.89463806152344,
                 0.0,
                 -0.0
             ],
-            "scale": 0.05000000074505806,
-            "enableCEPersistency": 0
+            "scale": 0.04999999329447746,
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -6748,7 +7197,8 @@
                 0.0
             ],
             "scale": 0.9999999403953552,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -6763,7 +7213,8 @@
                 1.9999992847442628
             ],
             "scale": 0.9999999403953552,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_box_c_multi",
@@ -6778,7 +7229,8 @@
                 0.0000032550201467529407
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_locker_open_v3",
@@ -6793,7 +7245,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Misc_Pallet",
@@ -6808,7 +7261,8 @@
                 -0.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_sawhorse_DZ",
@@ -6823,7 +7277,8 @@
                 -0.0
             ],
             "scale": 0.14999999105930329,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -6838,7 +7293,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "OMKPants_Navy",
@@ -6853,7 +7309,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -6868,7 +7325,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "BarbedBaseballBat",
@@ -6883,7 +7341,8 @@
                 -167.99998474121095
             ],
             "scale": 0.9999980926513672,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -6898,7 +7357,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_sawhorse_DZ",
@@ -6913,7 +7373,8 @@
                 0.000530835532117635
             ],
             "scale": 0.14999999105930329,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "OMKJacket_Navy",
@@ -6928,7 +7389,8 @@
                 -85.99999237060547
             ],
             "scale": 1.0000003576278687,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Misc_BoxWooden",
@@ -6943,7 +7405,8 @@
                 -0.0001869774132501334
             ],
             "scale": 0.9999911189079285,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -6958,7 +7421,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -6973,7 +7437,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -6988,7 +7453,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_box_c",
@@ -7003,7 +7469,8 @@
                 1.5652653928555083e-7
             ],
             "scale": 0.9999895095825195,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "TTSKOBoots",
@@ -7018,7 +7485,8 @@
                 -0.0
             ],
             "scale": 0.9999999403953552,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Lockpick",
@@ -7033,7 +7501,8 @@
                 -180.0
             ],
             "scale": 1.0000001192092896,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -7048,7 +7517,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_box_c",
@@ -7063,7 +7533,8 @@
                 -0.000002563403540989384
             ],
             "scale": 0.9999892711639404,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -7078,7 +7549,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "BallisticHelmet_Navy",
@@ -7093,7 +7565,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -7108,7 +7581,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_locker_open_blue_v3",
@@ -7123,7 +7597,8 @@
                 -0.0
             ],
             "scale": 0.9999976754188538,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Crowbar",
@@ -7138,7 +7613,8 @@
                 -169.99998474121095
             ],
             "scale": 0.9999999403953552,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoodenPlank",
@@ -7153,7 +7629,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "PaddedGloves_Brown",
@@ -7168,7 +7645,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "CargoPants_Black",
@@ -7183,7 +7661,8 @@
                 -8.537737130609457e-7
             ],
             "scale": 0.7499983906745911,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Misc_Pallets3",
@@ -7198,7 +7677,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Misc_Pallets2",
@@ -7213,7 +7693,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "CombatBoots_Black",
@@ -7228,7 +7709,8 @@
                 -0.0000034151032650697745
             ],
             "scale": 0.9999975562095642,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Balaclava3Holes_White",
@@ -7243,7 +7725,8 @@
                 90.0
             ],
             "scale": 1.0000003576278687,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Misc_Pallet",
@@ -7258,7 +7741,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_PalletTrolley_01_yellow_F",
@@ -7273,7 +7757,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "PlateCarrierVest_Black",
@@ -7288,7 +7773,8 @@
                 -92.99999237060547
             ],
             "scale": 0.9999982714653015,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Misc_Table",
@@ -7303,7 +7789,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Billboard_Service",
@@ -7318,7 +7805,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_Metal_cutting_saw",
@@ -7333,7 +7821,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_radio_b",
@@ -7348,7 +7837,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_school_clock",
@@ -7363,7 +7853,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Billboard_FilterBottle",
@@ -7378,7 +7869,8 @@
                 -0.0
             ],
             "scale": 0.25,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "BalaclavaMask_Black",
@@ -7393,7 +7885,8 @@
                 -89.7089614868164
             ],
             "scale": 0.7999975085258484,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "HandSaw",
@@ -7408,7 +7901,8 @@
                 -0.000049632551963441077
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Whetstone",
@@ -7423,7 +7917,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Whetstone",
@@ -7438,7 +7933,8 @@
                 0.0
             ],
             "scale": 0.9999999403953552,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "CowboyHat_black",
@@ -7453,7 +7949,8 @@
                 -0.000001227302504958061
             ],
             "scale": 0.9999973177909851,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "AK_Suppressor",
@@ -7468,7 +7965,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_tv_a",
@@ -7483,7 +7981,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "BandageDressing",
@@ -7498,7 +7997,8 @@
                 179.99993896484376
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Bandana_BlackPattern",
@@ -7513,7 +8013,8 @@
                 -25.00005531311035
             ],
             "scale": 0.9999966025352478,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Decon_LayFlatHose_01_Roll_F",
@@ -7528,7 +8029,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Decon_LayFlatHose_01_SBend_F",
@@ -7543,7 +8045,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoolGloves_Black",
@@ -7558,7 +8061,8 @@
                 8.004146820894675e-7
             ],
             "scale": 0.9999974370002747,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Decon_LayFlatHose_01_StraightLong_F",
@@ -7573,7 +8077,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Decon_LayFlatHose_01_Step_F",
@@ -7588,7 +8093,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "WoolGlovesFingerless_Black",
@@ -7603,7 +8109,8 @@
                 -1.3340246596271755e-7
             ],
             "scale": 0.9999969005584717,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Decon_LayFlatHose_01_Corner_F",
@@ -7618,7 +8125,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Land_Misc_Well_Pump_Blue",
@@ -7633,7 +8141,8 @@
                 0.0
             ],
             "scale": 0.9999994039535523,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "SodaCan_Kvass",
@@ -7648,7 +8157,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "PaddedGloves_Brown",
@@ -7663,7 +8173,8 @@
                 -8.537757594240247e-7
             ],
             "scale": 0.9999975562095642,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "SodaCan_Empty",
@@ -7678,7 +8189,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Rubble_Metal3",
@@ -7693,7 +8205,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "ImprovisedExplosive",
@@ -7708,7 +8221,8 @@
                 0.0000011739415413103416
             ],
             "scale": 0.9999971389770508,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Rubble_Wood2",
@@ -7723,7 +8237,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Rubble_Concrete3",
@@ -7738,7 +8253,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "ImprovisedExplosive",
@@ -7753,7 +8269,8 @@
                 0.0000012273028460185743
             ],
             "scale": 0.9999969005584717,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_soustruh_proxy",
@@ -7768,7 +8285,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_soustruh_proxy",
@@ -7783,7 +8301,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "ImprovisedExplosive",
@@ -7798,7 +8317,8 @@
                 0.0000012273028460185743
             ],
             "scale": 0.9999969005584717,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Furniture_soustruh_proxy",
@@ -7813,7 +8333,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "CarBattery",
@@ -7828,7 +8349,8 @@
                 -0.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "TruckBattery",
@@ -7843,7 +8365,8 @@
                 -0.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "SparkPlug",
@@ -7858,7 +8381,8 @@
                 179.9999542236328
             ],
             "scale": 1.000000238418579,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "CarRadiator",
@@ -7873,7 +8397,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Screwdriver",
@@ -7888,7 +8413,8 @@
                 179.99993896484376
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Screwdriver",
@@ -7903,7 +8429,8 @@
                 -107.21134948730469
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Wrench",
@@ -7918,7 +8445,8 @@
                 179.9999542236328
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "LugWrench",
@@ -7933,7 +8461,8 @@
                 179.99993896484376
             ],
             "scale": 0.9999997615814209,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "TireRepairKit",
@@ -7948,7 +8477,8 @@
                 -0.0
             ],
             "scale": 1.000000238418579,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "HeadlightH7_Box",
@@ -7963,7 +8493,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "HeadlightH7_Box",
@@ -7978,7 +8509,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Plastic_Explosive",
@@ -7993,7 +8525,8 @@
                 0.6844196915626526
             ],
             "scale": 0.999997615814209,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "HatchbackWheel",
@@ -8008,7 +8541,8 @@
                 -90.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "HatchbackWheel",
@@ -8023,7 +8557,8 @@
                 -90.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "HatchbackWheel",
@@ -8038,7 +8573,8 @@
                 -90.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "HatchbackWheel",
@@ -8053,7 +8589,8 @@
                 -10.0
             ],
             "scale": 0.9999998807907105,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Plastic_Explosive",
@@ -8068,7 +8605,8 @@
                 0.684419572353363
             ],
             "scale": 0.999997615814209,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "CivSedanWheel",
@@ -8083,7 +8621,8 @@
                 0.028192222118377687
             ],
             "scale": 0.9999998211860657,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "CivSedanWheel",
@@ -8098,7 +8637,8 @@
                 0.028192222118377687
             ],
             "scale": 0.9999998211860657,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "CivSedanWheel",
@@ -8113,7 +8653,8 @@
                 0.028192222118377687
             ],
             "scale": 0.9999998211860657,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "CivSedanWheel",
@@ -8128,7 +8669,8 @@
                 0.028192222118377687
             ],
             "scale": 0.9999998211860657,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Hatchback_02_Wheel",
@@ -8143,7 +8685,8 @@
                 -0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Plastic_Explosive",
@@ -8158,7 +8701,8 @@
                 0.6844205856323242
             ],
             "scale": 0.9999967217445374,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Hatchback_02_Wheel",
@@ -8173,7 +8717,8 @@
                 -0.0
             ],
             "scale": 1.0000001192092896,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Hatchback_02_Wheel",
@@ -8188,7 +8733,8 @@
                 90.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Hatchback_02_Wheel",
@@ -8203,7 +8749,8 @@
                 90.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Sedan_02_Wheel",
@@ -8218,7 +8765,8 @@
                 90.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Sedan_02_Wheel",
@@ -8233,7 +8781,8 @@
                 90.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "Sedan_02_Wheel",
@@ -8248,7 +8797,72 @@
                 90.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Honey",
+            "pos": [
+                13015.6953125,
+                5.021749496459961,
+                7703.7021484375
+            ],
+            "ypr": [
+                62.9999885559082,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Honey",
+            "pos": [
+                13015.970703125,
+                4.641749858856201,
+                7703.6494140625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DeadFox",
+            "pos": [
+                13017.9638671875,
+                3.510058641433716,
+                7710.3193359375
+            ],
+            "ypr": [
+                -125.99993133544922,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DeadFox",
+            "pos": [
+                13017.251953125,
+                3.8424787521362306,
+                7709.953125
+            ],
+            "ypr": [
+                -80.9999771118164,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
         }
     ]
 }
