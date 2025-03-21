@@ -2,7 +2,7 @@
 Custom Structure JSON Files For Console and PC Instructions ONLY WORKS ON DAYZ 1.26 AND LATER!!! NOT EARLIER VERSIONS!!!
 
 "  - A strategic Last attempt to hold-off the inevitable. As the zombie infestation began to take hold of Sakhal, Aniva's industrial district made a last attempt for salvation by ordering in truck loads of materials to be processed to make a barrier between them and the outside world. 
-It seems the efforts were in vein. 
+It seems the efforts were in vain. 
 Now you stumble across the remaining supplies. 
 As their story ended, yours begins.
 Welcome to Aniva. "
